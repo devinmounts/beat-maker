@@ -1,10 +1,10 @@
-# Project Title
+# Beat Maker
 
 #### Epicodus Intro to Programming: Group Project, 06/18/18 - 6/21/2018
 
-#### By Kevin Ahn, Kyle Parsons, Devin Mounts, David Ngo, and Annie Shin
+#### By Devin Mounts, David Ngo, Kevin Ahn, Kyle Parsons, and Annie Shin
 
-## A super sweet beatmaker that will take you from zero to skrillex in a matter of minutes.
+## A super sweet beat machine that will take you from zero to skrillex in a matter of minutes.
 
 ### Specs
 | Spec | Input | Output |
@@ -16,6 +16,8 @@
 | **Program allows user to save a created "beat" containing multiple "bars" on multiple instruments, and allows users to replay created "beat".** | Click: "Snare: bar 4; Bass: bar 8; Save: Beat 1; Select Beat 1" | Output: "Snare audio on bar 4, Bass audio on bar 8." |
 | **Program allows user to save multiple created "beats", and allows users to choose which created "beat" to replay.** | Click: "Beat 1: Snare: bar 4; Bass: bar 8; Save. Beat 2: Snare: bar 6; Bass: bar 5; Bongo: bar 7, Save. Play "Beat 1"" | Output: "Snare audio on bar 6, Bass audio on bar 5, Bongo audio on bar 7." |
 
+## Contributions
+  For the creation of this application, I was tasked with developing the save functionality and assisted in the back end logic to create the looping mechanism for reading the bars of the beat machine.
 ## Setup
 
 1. Clone the repo into an empty repository using git clone [url]
